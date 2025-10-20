@@ -1,4 +1,4 @@
-# Classes Sociais — Sociologia (Ensino Médio)
+# Classes Sociais — LIS (Ensino Médio)
 
 Material didático moderno com acessibilidade (WCAG), responsivo, PWA e busca interna.
 
