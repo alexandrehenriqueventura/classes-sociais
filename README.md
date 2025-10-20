@@ -1,2 +1,7 @@
-# classes-sociais
-Material didático sobre Classes Sociais para o 2º ano do EM — estrutura moderna com acessibilidade, PWA, busca interna e SEO
+# Classes Sociais — Sociologia (Ensino Médio)
+
+Material didático moderno com acessibilidade (WCAG), responsivo, PWA e busca interna.
+
+- Conteúdo: Conceitos, Marx, Weber, Estratificação, Mobilidade, Brasil e Recursos.
+- Tecnologias: HTML5, CSS3, JS ES6, PWA (manifest + service worker), SEO (OG + sitemap + robots).
+- Acesso online: https://alexandrehenriqueventura.github.io/classes-sociais/
